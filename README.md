@@ -1,1 +1,1 @@
-# Only testing github webhooks
+# Only testing webhooks
